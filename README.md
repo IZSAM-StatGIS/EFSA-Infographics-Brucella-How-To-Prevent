@@ -1,0 +1,1 @@
+# EFSA-Infographics-Brucella-How-To-Prevent
