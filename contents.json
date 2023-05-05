@@ -1,0 +1,32 @@
+{
+  "farm": {
+    "text": "Especially for poultry",
+    "collection": [
+      {"img": "images/icons/ic_plan.svg" ,"title": "Implementing National Control Programmes", "info": ""},
+      {"img": "images/icons/ic_slaugh.svg" ,"title": "Culling and/or slaughtering infected animals", "info": ""},
+      {"img": "images/icons/ic_training_1.svg" ,"title": "Continuous biosecurity training for farm managers and farm workers", "info": ""}
+    ]
+  },
+  "manufacturing": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_milk.svg", "title": "Appling pasteurisation of milk", "info": ""},
+      {"img": "images/icons/ic_training_1.svg", "title": "Training properly the food handlers", "info": ""}
+    ]
+  },
+  "distribution": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_gloves.svg", "title": "Proper food handling processes", "info": ""},
+      {"img": "images/icons/ic_wash_hands.svg", "title": "Strict personal hygiene to prevent contacts between food and infected food handlers", "info": ""}
+    ]
+  },
+  "customer": {
+    "text": "",
+    "collection": [
+      {"img": "images/icons/ic_avoid_unpast_milk.svg", "title": "Avoiding the consumption of unpasteurised milk and dairy products", "info": ""},
+      {"img": "images/icons/ic_avoid_raw_meat.svg", "title": "Avoiding the consumption of raw or undercooked meat", "info": ""},
+      {"img": "images/icons/ic_key.svg", "title": "Respecting the <br><b>Five Keys</b><br>to <b>Safer Food</b>", "info": "<ol><li>Keep clean</li><li>Separate raw and cooked</li><li>Cook thoroughly</li><li>Keep food at safe temperatures</li><li>Use safe water and raw materials</li></ol><small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"}
+    ]
+  }
+}
