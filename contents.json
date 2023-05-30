@@ -29,12 +29,7 @@
     "collection": [
       {"img": "images/icons/ic_avoid_unpast_milk.svg", "title": "<b>Avoiding</b> the consumption of <b>raw/not heat-treated milk</b> and products thereof in and from <b>endemic areas</b>", "info": ""},
       {"img": "images/icons/ic_avoid_raw_meat.svg", "title": "<b>Avoiding</b> the consumption of <b>raw or undercooked meat</b>", "info": ""},
-      {"img": "images/icons/ic_specific.svg", "title": "Keep <b>clean</b>", "info": ""},
-      {"img": "images/icons/ic_eggs.svg", "title": "<b>Separate</b> raw and cooked", "info": ""},
-      {"img": "images/icons/ic_key.svg", "title": "Respecting the <br><b>Five Keys</b><br>to <b>Safer Food</b>", "info": "<ol><li>Keep clean</li><li>Separate raw and cooked</li><li>Cook thoroughly</li><li>Keep food at safe temperatures</li><li>Use safe water and raw materials</li></ol><small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"},
-      {"img": "images/icons/ic_slaugh.svg", "title": "Cook <b>thoroughly</b>", "info": ""},
-      {"img": "images/icons/ic_temp.svg", "title": "Keep food at <b>safe temperatures</b>", "info": ""},
-      {"img": "images/icons/ic_igene.svg", "title": "Use <b>safe water</b> and <b>raw materials</b>", "info": ""}
+      {"img": "images/icons/ic_key.svg", "title": "Respecting the <br><b>Five Keys</b><br>to <b>Safer Food</b>", "info": "<ol><li>Keep clean</li><li>Separate raw and cooked</li><li>Cook thoroughly</li><li>Keep food at safe temperatures</li><li>Use safe water and raw materials</li></ol><small><a href='https://efsa.gitlab.io/sm-infographics/fbo-5-keys/index.html' target='_blank'>Click for more..</a></small>"}
     ]
   }
 }
